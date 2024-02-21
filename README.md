@@ -7,4 +7,4 @@ their genre, abstract
 
 Project Video:
 
-[![Google Drive]]([https://www.linkedin.com/in/faisal-mehmood-awan-4771a8233](https://drive.google.com/file/d/1H1kQLt3aKfGgobgNtg5spjcwJGwAGrhy/view?usp=sharing)https://drive.google.com/file/d/1H1kQLt3aKfGgobgNtg5spjcwJGwAGrhy/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faisal-mehmood-awan-4771a8233)
